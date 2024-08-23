@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gardenia\\Documents\\c-\\aula-alura\\aula-alura\\aula-alura.csproj",
+      "projectUniqueName": "C:\\Users\\Gardenia\\Documents\\csharp\\aula-alura\\aula-alura\\aula-alura.csproj",
       "projectName": "aula-alura",
-      "projectPath": "C:\\Users\\Gardenia\\Documents\\c-\\aula-alura\\aula-alura\\aula-alura.csproj",
+      "projectPath": "C:\\Users\\Gardenia\\Documents\\csharp\\aula-alura\\aula-alura\\aula-alura.csproj",
       "packagesPath": "C:\\Users\\Gardenia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gardenia\\Documents\\c-\\aula-alura\\aula-alura\\obj\\",
+      "outputPath": "C:\\Users\\Gardenia\\Documents\\csharp\\aula-alura\\aula-alura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gardenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
