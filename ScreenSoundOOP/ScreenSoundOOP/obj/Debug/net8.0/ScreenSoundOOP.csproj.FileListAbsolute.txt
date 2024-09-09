@@ -1,0 +1,15 @@
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\bin\Debug\net8.0\ScreenSoundOOP.exe
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\bin\Debug\net8.0\ScreenSoundOOP.deps.json
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\bin\Debug\net8.0\ScreenSoundOOP.runtimeconfig.json
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\bin\Debug\net8.0\ScreenSoundOOP.dll
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\bin\Debug\net8.0\ScreenSoundOOP.pdb
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.AssemblyInfoInputs.cache
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.AssemblyInfo.cs
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.csproj.CoreCompileInputs.cache
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.sourcelink.json
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.dll
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\refint\ScreenSoundOOP.dll
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.pdb
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ScreenSoundOOP.genruntimeconfig.cache
+C:\Users\Gardenia\Documents\csharp\ScreenSoundOOP\ScreenSoundOOP\obj\Debug\net8.0\ref\ScreenSoundOOP.dll
